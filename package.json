@@ -1,6 +1,6 @@
 {
   "name": "@hotelkilow/another-react-carousel",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Just another basic react carousel component",
   "repository": "https://github.com/hosnipogi/another-react-carousel",
   "main": "dist/cjs/index.js",
