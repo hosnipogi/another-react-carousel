@@ -1,0 +1,13 @@
+.image__main {
+  object-fit: cover;
+  position: absolute;
+  inset: 0;
+  opacity: 0;
+  transition: opacity ease 1.4s;
+  z-index: 1;
+  height: 100%;
+  width: 100%;
+  &.active {
+    opacity: 1;
+  }
+}
